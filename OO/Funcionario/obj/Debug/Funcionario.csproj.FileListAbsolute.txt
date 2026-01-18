@@ -1,0 +1,7 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Funcionario\obj\Debug\Funcionario.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Funcionario\obj\Debug\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Funcionario\bin\Debug\Funcionario.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Funcionario\bin\Debug\Funcionario.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Funcionario\bin\Debug\Funcionario.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Funcionario\obj\Debug\Funcionario.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Funcionario\obj\Debug\Funcionario.pdb

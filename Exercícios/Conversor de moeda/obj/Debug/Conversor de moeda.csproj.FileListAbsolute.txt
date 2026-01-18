@@ -1,0 +1,8 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Conversor de moeda\bin\Debug\Conversor de moeda.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Conversor de moeda\bin\Debug\Conversor de moeda.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Conversor de moeda\bin\Debug\Conversor de moeda.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Conversor de moeda\obj\Debug\Conversor de moeda.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Conversor de moeda\obj\Debug\Conversor de moeda.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Conversor de moeda\obj\Debug\Conversor de moeda.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Conversor de moeda\obj\Debug\Conversor de moeda.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Conversor de moeda\obj\Debug\Conversor de moeda.exe.config

@@ -1,0 +1,8 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Notas do Aluno\bin\Debug\Sistema de Notas do Aluno.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Notas do Aluno\bin\Debug\Sistema de Notas do Aluno.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Notas do Aluno\bin\Debug\Sistema de Notas do Aluno.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Notas do Aluno\obj\Debug\Sistema de Notas do Aluno.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Notas do Aluno\obj\Debug\Sistema de Notas do Aluno.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Notas do Aluno\obj\Debug\Sistema de Notas do Aluno.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Notas do Aluno\obj\Debug\Sistema de Notas do Aluno.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Notas do Aluno\obj\Debug\Sistema de Notas do Aluno.exe.config

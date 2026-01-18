@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A047233-F263-421F-BAA2-BEF5C7ED6FB1}|Array\\Array.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\cole\u00E7\u00F5es\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A047233-F263-421F-BAA2-BEF5C7ED6FB1}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81157A7-EDD5-444A-B2C7-4F4B76180DB1}|ParImpar\\ParImpar.csproj|C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\parimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81157A7-EDD5-444A-B2C7-4F4B76180DB1}|ParImpar\\ParImpar.csproj|solutionrelative:parimpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741F93FF-3399-4DB6-8B10-F218734013C6}|Loteria\\Loteria.csproj|C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\loteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741F93FF-3399-4DB6-8B10-F218734013C6}|Loteria\\Loteria.csproj|solutionrelative:loteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9992A2E-426C-4542-8655-AF0DD2754F6A}|FilaPilha\\FilaPilha.csproj|C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\filapilha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9992A2E-426C-4542-8655-AF0DD2754F6A}|FilaPilha\\FilaPilha.csproj|solutionrelative:filapilha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB85A6D-B274-4A8D-88DE-0794A551F4A2}|MaiorMenor\\MaiorMenor.csproj|C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\maiormenor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB85A6D-B274-4A8D-88DE-0794A551F4A2}|MaiorMenor\\MaiorMenor.csproj|solutionrelative:maiormenor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Array\\Program.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\Array\\Program.cs",
+              "RelativeToolTip": "Array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:35:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\ParImpar\\Program.cs",
+              "RelativeDocumentMoniker": "ParImpar\\Program.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\ParImpar\\Program.cs",
+              "RelativeToolTip": "ParImpar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:35:14.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\FilaPilha\\Program.cs",
+              "RelativeDocumentMoniker": "FilaPilha\\Program.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\FilaPilha\\Program.cs",
+              "RelativeToolTip": "FilaPilha\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:14:44.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\Loteria\\Program.cs",
+              "RelativeDocumentMoniker": "Loteria\\Program.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\Loteria\\Program.cs",
+              "RelativeToolTip": "Loteria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:01:37.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\MaiorMenor\\Program.cs",
+              "RelativeDocumentMoniker": "MaiorMenor\\Program.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Cole\u00E7\u00F5es\\MaiorMenor\\Program.cs",
+              "RelativeToolTip": "MaiorMenor\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:12:56.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

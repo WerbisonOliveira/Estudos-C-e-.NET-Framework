@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{805DF6DE-E347-491A-85E9-EA78A37F8115}|Conta\\Conta.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\exerciciosoo\\conta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805DF6DE-E347-491A-85E9-EA78A37F8115}|Conta\\Conta.csproj|solutionrelative:conta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6B6B3C-B927-4533-A9B9-677C3E998D3E}|Pessoa\\Pessoa.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\exerciciosoo\\pessoa\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6B6B3C-B927-4533-A9B9-677C3E998D3E}|Pessoa\\Pessoa.csproj|solutionrelative:pessoa\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8009D7-D501-4CD7-8E30-4CF9ABA9CE64}|Aluno\\Aluno.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\exerciciosoo\\aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8009D7-D501-4CD7-8E30-4CF9ABA9CE64}|Aluno\\Aluno.csproj|solutionrelative:aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8009D7-D501-4CD7-8E30-4CF9ABA9CE64}|Aluno\\Aluno.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\exerciciosoo\\aluno\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8009D7-D501-4CD7-8E30-4CF9ABA9CE64}|Aluno\\Aluno.csproj|solutionrelative:aluno\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8009D7-D501-4CD7-8E30-4CF9ABA9CE64}|Aluno\\Aluno.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\exerciciosoo\\aluno\\iprogramador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8009D7-D501-4CD7-8E30-4CF9ABA9CE64}|Aluno\\Aluno.csproj|solutionrelative:aluno\\iprogramador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8009D7-D501-4CD7-8E30-4CF9ABA9CE64}|Aluno\\Aluno.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\exerciciosoo\\aluno\\ianalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8009D7-D501-4CD7-8E30-4CF9ABA9CE64}|Aluno\\Aluno.csproj|solutionrelative:aluno\\ianalista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Conta\\Program.cs",
+              "RelativeDocumentMoniker": "Conta\\Program.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Conta\\Program.cs*",
+              "RelativeToolTip": "Conta\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:26:27.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Pessoa\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Pessoa\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Pessoa\\Funcionario.cs",
+              "RelativeToolTip": "Pessoa\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:16:15.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAnalista.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Aluno\\IAnalista.cs",
+              "RelativeDocumentMoniker": "Aluno\\IAnalista.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Aluno\\IAnalista.cs",
+              "RelativeToolTip": "Aluno\\IAnalista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:52:31.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProgramador.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Aluno\\IProgramador.cs",
+              "RelativeDocumentMoniker": "Aluno\\IProgramador.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Aluno\\IProgramador.cs",
+              "RelativeToolTip": "Aluno\\IProgramador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:52:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Aluno\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Aluno\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Aluno\\Models\\Aluno.cs",
+              "RelativeToolTip": "Aluno\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:51:37.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Aluno\\Program.cs",
+              "RelativeDocumentMoniker": "Aluno\\Program.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\ExerciciosOO\\Aluno\\Program.cs",
+              "RelativeToolTip": "Aluno\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:51:09.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

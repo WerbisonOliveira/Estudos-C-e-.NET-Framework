@@ -1,0 +1,7 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Av2Programa1\bin\Debug\Av2Programa1.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Av2Programa1\bin\Debug\Av2Programa1.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Av2Programa1\bin\Debug\Av2Programa1.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Av2Programa1\obj\Debug\Av2Programa1.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Av2Programa1\obj\Debug\Av2Programa1.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Av2Programa1\obj\Debug\Av2Programa1.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Av2Programa1\obj\Debug\Av2Programa1.pdb

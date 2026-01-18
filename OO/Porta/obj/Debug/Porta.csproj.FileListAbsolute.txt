@@ -1,0 +1,7 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Porta\bin\Debug\Porta.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Porta\bin\Debug\Porta.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Porta\bin\Debug\Porta.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Porta\obj\Debug\Porta.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Porta\obj\Debug\Porta.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Porta\obj\Debug\Porta.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\Porta\obj\Debug\Porta.pdb

@@ -1,0 +1,7 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Coleções\Banco_Queue\bin\Debug\Banco_Queue.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Coleções\Banco_Queue\bin\Debug\Banco_Queue.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Coleções\Banco_Queue\bin\Debug\Banco_Queue.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Coleções\Banco_Queue\obj\Debug\Banco_Queue.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Coleções\Banco_Queue\obj\Debug\Banco_Queue.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Coleções\Banco_Queue\obj\Debug\Banco_Queue.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Coleções\Banco_Queue\obj\Debug\Banco_Queue.pdb

@@ -1,0 +1,7 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\EstruturasNãoTiapadas\bin\Debug\EstruturasNãoTiapadas.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\EstruturasNãoTiapadas\bin\Debug\EstruturasNãoTiapadas.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\EstruturasNãoTiapadas\bin\Debug\EstruturasNãoTiapadas.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\EstruturasNãoTiapadas\obj\Debug\EstruturasNãoTipadas.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\EstruturasNãoTiapadas\obj\Debug\EstruturasNãoTipadas.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\EstruturasNãoTiapadas\obj\Debug\EstruturasNãoTiapadas.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\EstruturasNãoTiapadas\obj\Debug\EstruturasNãoTiapadas.pdb

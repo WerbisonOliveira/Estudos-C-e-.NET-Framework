@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Logica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C83925A-8ED5-4052-820F-5F66D66D750D}|Jogo\\Jogo.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\logica\\jogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C83925A-8ED5-4052-820F-5F66D66D750D}|Jogo\\Jogo.csproj|solutionrelative:jogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F62C137-C3AE-4C26-B906-D10D5D103ED9}|Voto\\Voto.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\logica\\voto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F62C137-C3AE-4C26-B906-D10D5D103ED9}|Voto\\Voto.csproj|solutionrelative:voto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1154,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Logica\\Jogo\\Program.cs",
+              "RelativeDocumentMoniker": "Jogo\\Program.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Logica\\Jogo\\Program.cs*",
+              "RelativeToolTip": "Jogo\\Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:58:01.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Logica\\Voto\\Program.cs",
+              "RelativeDocumentMoniker": "Voto\\Program.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\Logica\\Voto\\Program.cs",
+              "RelativeToolTip": "Voto\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T11:24:22.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

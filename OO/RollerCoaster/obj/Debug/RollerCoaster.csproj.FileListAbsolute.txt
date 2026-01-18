@@ -1,0 +1,15 @@
+D:\Cursos\moura\.net-angular-2024-turma08\projetos\OO\RollerCoaster\obj\Debug\RollerCoaster.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma08\projetos\OO\RollerCoaster\obj\Debug\RollerCoaster.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma08\projetos\OO\RollerCoaster\bin\Debug\RollerCoaster.exe.config
+D:\Cursos\moura\.net-angular-2024-turma08\projetos\OO\RollerCoaster\bin\Debug\RollerCoaster.exe
+D:\Cursos\moura\.net-angular-2024-turma08\projetos\OO\RollerCoaster\bin\Debug\RollerCoaster.pdb
+D:\Cursos\moura\.net-angular-2024-turma08\projetos\OO\RollerCoaster\obj\Debug\RollerCoaster.exe
+D:\Cursos\moura\.net-angular-2024-turma08\projetos\OO\RollerCoaster\obj\Debug\RollerCoaster.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\RollerCoaster\bin\Debug\RollerCoaster.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\RollerCoaster\bin\Debug\RollerCoaster.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\RollerCoaster\bin\Debug\RollerCoaster.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\RollerCoaster\obj\Debug\RollerCoaster.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\RollerCoaster\obj\Debug\RollerCoaster.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\RollerCoaster\obj\Debug\RollerCoaster.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\RollerCoaster\obj\Debug\RollerCoaster.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\OO\RollerCoaster\obj\Debug\RollerCoaster.pdb

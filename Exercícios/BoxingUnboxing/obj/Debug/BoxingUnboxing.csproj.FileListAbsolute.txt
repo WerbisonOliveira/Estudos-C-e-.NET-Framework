@@ -1,0 +1,7 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\BoxingUnboxing\bin\Debug\BoxingUnboxing.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\BoxingUnboxing\obj\Debug\BoxingUnboxing.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\BoxingUnboxing\obj\Debug\BoxingUnboxing.pdb

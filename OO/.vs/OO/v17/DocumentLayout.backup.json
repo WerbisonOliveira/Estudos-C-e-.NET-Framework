@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\OO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E2DFF-A2E2-4BD1-B127-A52E7701C0F4}|Impressora\\Impressora.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\oo\\impressora\\models\\impressora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84E2DFF-A2E2-4BD1-B127-A52E7701C0F4}|Impressora\\Impressora.csproj|solutionrelative:impressora\\models\\impressora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84E2DFF-A2E2-4BD1-B127-A52E7701C0F4}|Impressora\\Impressora.csproj|c:\\users\\werbi\\documents\\curso - jn moura\\back-end\\c#\\oo\\impressora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84E2DFF-A2E2-4BD1-B127-A52E7701C0F4}|Impressora\\Impressora.csproj|solutionrelative:impressora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Impressora.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\OO\\Impressora\\Models\\Impressora.cs",
+              "RelativeDocumentMoniker": "Impressora\\Models\\Impressora.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\OO\\Impressora\\Models\\Impressora.cs",
+              "RelativeToolTip": "Impressora\\Models\\Impressora.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T17:03:07.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\OO\\Impressora\\Program.cs",
+              "RelativeDocumentMoniker": "Impressora\\Program.cs",
+              "ToolTip": "C:\\Users\\werbi\\Documents\\Curso - JN Moura\\Back-End\\C#\\OO\\Impressora\\Program.cs",
+              "RelativeToolTip": "Impressora\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T16:54:18.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Jogo Par Ou Ímpar\bin\Debug\Jogo Par Ou Ímpar.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Jogo Par Ou Ímpar\bin\Debug\Jogo Par Ou Ímpar.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Jogo Par Ou Ímpar\bin\Debug\Jogo Par Ou Ímpar.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Jogo Par Ou Ímpar\obj\Debug\Jogo Par Ou Ímpar.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Jogo Par Ou Ímpar\obj\Debug\Jogo Par Ou Ímpar.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Jogo Par Ou Ímpar\obj\Debug\Jogo Par Ou Ímpar.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Jogo Par Ou Ímpar\obj\Debug\Jogo Par Ou Ímpar.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Jogo Par Ou Ímpar\obj\Debug\Jogo Par Ou Ímpar.exe.config

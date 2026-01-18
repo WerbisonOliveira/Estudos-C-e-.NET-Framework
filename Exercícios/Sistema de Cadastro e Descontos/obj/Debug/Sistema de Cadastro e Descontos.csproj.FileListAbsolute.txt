@@ -1,0 +1,7 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Cadastro e Descontos\bin\Debug\Sistema de Cadastro e Descontos.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Cadastro e Descontos\bin\Debug\Sistema de Cadastro e Descontos.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Cadastro e Descontos\bin\Debug\Sistema de Cadastro e Descontos.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Cadastro e Descontos\obj\Debug\Sistema de Cadastro e Descontos.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Cadastro e Descontos\obj\Debug\Sistema de Cadastro e Descontos.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Cadastro e Descontos\obj\Debug\Sistema de Cadastro e Descontos.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Sistema de Cadastro e Descontos\obj\Debug\Sistema de Cadastro e Descontos.pdb

@@ -1,0 +1,8 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Calculadora de IMC\bin\Debug\Calculadora de IMC.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Calculadora de IMC\bin\Debug\Calculadora de IMC.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Calculadora de IMC\bin\Debug\Calculadora de IMC.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Calculadora de IMC\obj\Debug\Calculadora_de_IMC.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Calculadora de IMC\obj\Debug\Calculadora de IMC.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Calculadora de IMC\obj\Debug\Calculadora_de_IMC.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Calculadora de IMC\obj\Debug\Calculadora de IMC.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Calculadora de IMC\obj\Debug\Calculadora de IMC.pdb

@@ -1,0 +1,8 @@
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Dia da Semana\bin\Debug\Dia da Semana.exe.config
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Dia da Semana\bin\Debug\Dia da Semana.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Dia da Semana\bin\Debug\Dia da Semana.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Dia da Semana\obj\Debug\Dia da Semana.csproj.AssemblyReference.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Dia da Semana\obj\Debug\Dia da Semana.csproj.CoreCompileInputs.cache
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Dia da Semana\obj\Debug\Dia da Semana.exe
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Dia da Semana\obj\Debug\Dia da Semana.pdb
+C:\Users\werbi\Documents\Curso - JN Moura\Back-End\C#\Exercícios\Dia da Semana\obj\Debug\Dia da Semana.exe.config
