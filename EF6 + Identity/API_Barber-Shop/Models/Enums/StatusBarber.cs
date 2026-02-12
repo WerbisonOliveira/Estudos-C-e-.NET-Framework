@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace API_Barber_Shop.Models.Enums
+{
+    public enum StatusBarber
+    {
+        Ativo = 1,
+        Inativo = 2
+    }
+}
